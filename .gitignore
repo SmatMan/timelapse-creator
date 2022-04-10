@@ -1,3 +1,6 @@
+out/
+timelapse/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -122,3 +125,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+haarcascades/
+
+*.mp4
